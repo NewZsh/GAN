@@ -20,9 +20,9 @@ Pytorch implementations of most used Generative Adversarial Network (GAN) variet
 
 * DCGAN (with conditional)
 
-| epoch 10 | epoch 20 | epoch 30 | epoch 40 | epoch 50 | 
+| epoch 10 | epoch 20 | epoch 30 | epoch 40 | epoch 100 | 
 | :---:  | :---: | :---: | :---: | :---: | 
-| ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_10.png) | ![xxx](https://github.com/NewZsh/PyTorch_GAN/blob/master/images/DCGAN_20.png?raw=true) | ![xxx](https://github.com/NewZsh/PyTorch_GAN/blob/master/images/DCGAN_30.png?raw=true) | ![xxx](https://github.com/NewZsh/PyTorch_GAN/blob/master/images/DCGAN_40.png?raw=true) | ![xxx](https://github.com/NewZsh/PyTorch_GAN/blob/master/images/DCGAN_50.png?raw=true) |
+| ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_10.png) | ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_20.png) | ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_30.png) | ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_40.png) | ![image](https://github.com/NewZsh/PyTorch_GAN/blob/main/images/DCGAN_100.png) |
 
 
 to be finished
